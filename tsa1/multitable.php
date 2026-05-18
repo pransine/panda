@@ -6,12 +6,12 @@
         h1 {
             text-align: center;
             margin-bottom: 24px;
-            color: #1a1a1a;
+            color: #ffffff;
             font-family: Times;
         }
         body {
             font-family: Times;
-            background-color: #f0f0f0;
+            background-color: #4b0000;
             margin: 0;
             padding: 20px;
             display: flex;
